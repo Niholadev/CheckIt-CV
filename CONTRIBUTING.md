@@ -1,6 +1,6 @@
 # Contributing
 
-**Status:** Proposed · **Version:** 1.1 · **Last updated:** 2026-11-11 · **Owner:** Product owner (name to be added)
+**Status:** Aproved · **Version:** 1.1 · **Last updated:** 2026-14-11 · **Owner:** Product owner (Eniola & Chioma)
 
 This guide applies to everyone who changes this repository: team members and any AI coding agent working on their behalf.
 
